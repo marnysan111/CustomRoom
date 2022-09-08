@@ -1,0 +1,11 @@
+Consumer Key
+    API_KEY: m1YK53dhOhvQnSHWt8gL5btFQ
+    API_KEY_Secret: ekzj5aywepjrAgtDcQidDp3XLRsJ0XU33l2Yg8m486oZMDSO4X
+
+Bearer Token: AAAAAAAAAAAAAAAAAAAAAAI8gwEAAAAAy73FFvAG4NiLfQB%2FgjCU9bBCbB4%3Dqc62w17SvTconBqqa4YAQn4UcH234Mb88Kh9lUKdxOwjUVbaUE
+
+Access_Token: 1143095409012666368-JDYOqTHMcFqi1UBvUefUyIzf2MQqUL
+Access_Token_Secret: qquzlthBUGtQypdOkMPCn2MVXMVthxYfvQZsFvzrzfMHj
+
+Client ID: cEd4MlJxMFZpX0MtX3NucXdYQ3E6MTpjaQ
+Client Secret: p9InWq8OIIZtczZoUgqstJac50hL6pLczvbfyV0o8hdrk3MPU3
